@@ -14,6 +14,6 @@ tweetping-repost -u http://localhost:3000/service -s 8596f6fa
 ```
 -u   URL where post will forwarded
 -s   Stream ID
--m   HTTP method, GET,POST,PUT,DELETE... 
+-m   HTTP method, default "POST"
 ```
 
