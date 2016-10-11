@@ -1,6 +1,6 @@
 {
   "name": "tweetping-repost",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Repost post received from Tweetping platform",
   "main": "index.js",
   "bin": "index.js",
